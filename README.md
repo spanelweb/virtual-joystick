@@ -14,6 +14,11 @@ Unduh [JoyStick.bin](https://github.com/spanelweb/virtual-joystick/releases/down
 - Buka Emulator ePSXe untuk setting stick/gamepad virtual.
 - Play and enjoy.
 
+## Komfig SSID
+Name : JoyStick
+
+Pass : admin123456
+
 ## Manual konfigurasi Virtual Gamepad
 ``` txt
 Player 1 :
