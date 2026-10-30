@@ -11,7 +11,7 @@ Unduh [JoyStick.bin](https://github.com/spanelweb/virtual-joystick/releases/down
 - Buka laptop anda pastikan wemos terhubung di laptop anda terlebih dahulu dan buka url 192.168.4.1 sebagai admin/setelan AP.
 - Unduh/Jalankan [JoyStickServer.exe](https://github.com/spanelweb/virtual-joystick/releases/download/v1.0/JoyStickServer.exe).
 - Koneksikan wemos ke perangkat hp/smartphone lalu buka url 192.168.4.1 sebagai virtual gamepad. 
-- Buka Emulator ePSXe untuk setting stick/gamepad virtual.
+- Buka Emulator ePSXe di laptop untuk setting stick/gamepad virtual.
 - Play and enjoy.
 
 ## Konfig SSID
